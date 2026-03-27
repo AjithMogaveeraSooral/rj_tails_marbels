@@ -1,0 +1,11 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Original images folder (already copied to images/)
+tails_images/
